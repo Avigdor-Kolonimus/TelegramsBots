@@ -28,3 +28,12 @@ Working procedure with this service:<br/>
 5.  Kill your bot
     1.  Open link 'Consoles'
     2.  Click closed your console with bot
+<br/>
+
+You can create a free AI on this [site](https://dialogflow.com/).<br/>
+1.  Click Sign up for free.
+2.  We click on the Create agent button and fill in the fields at our discretion (this will not play any role, this is only necessary for the next action).
+3.  You need to click on Prebuilt Agents (these are specially trained agents that have many teams) and select Small Talk from the entire list.
+4.  Click Import. Further, without changing anything, click OK.
+5.  In the upper left corner, click on the gear near Small-Talk and get to the settings page.
+6.  You go down a bit and copy Client access token.
